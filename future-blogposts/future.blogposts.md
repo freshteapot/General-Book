@@ -3,6 +3,9 @@
 A file to list thoughts on what things to maybe write about for my [blog](http://blog.freshteapot.net).
 
 ---------
+#How to add a new Document Type to inkscape
+add-new-document-type-inkscape.md
+---------
 #How to export multiple layers sharing the same background.
 how-to-export-multiple-layers-sharing-the-same-background.md
 
