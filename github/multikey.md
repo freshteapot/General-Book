@@ -28,3 +28,33 @@ ssh specify key
 ## Links
 * http://help.github.com/multiple-ssh-keys/
 * http://dracoblue.net/dev/custom-identity-file-idrsapub-with-git-client/193/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Running vmware headless on a mac.
+
+## Read the help file.
+```
+    cd /Library/Application Support/VMware Fusion
+    ./vmrun --help
+```
+
+## Example format for starting.
+```
+    ./vmrun -T ws start PATH_TO_FILE nogui
+```
+
+###Notes
+* Added this to my "[General-Book](https://github.com/freshteapot/General-Book)".
