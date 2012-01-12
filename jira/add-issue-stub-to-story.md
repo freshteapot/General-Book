@@ -14,6 +14,7 @@ for(i=0;i<size;i++){
 ```
 
 A future upgrade will be convert it to a bookmarklet, so it just runs by a click.
+<<<<<<< HEAD
 
 ##Searched for
 * querySelector
@@ -26,3 +27,5 @@ A future upgrade will be convert it to a bookmarklet, so it just runs by a click
 * http://jclaes.blogspot.com/2010/11/html5-new-in-javascript-selector-api.html
 * http://www.w3.org/TR/selectors-api/#nodeselector
 * http://hacks.mozilla.org/2009/06/dom-selectors-api/
+=======
+>>>>>>> 04294128d0a05465c12b61588c27d4b6cb39e7ac
