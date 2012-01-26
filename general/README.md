@@ -1,0 +1,1 @@
+In this folder, I am just dumping things which do not have an immediately obvious home.
