@@ -9,9 +9,11 @@ However, after deleting the "index" file, eclipse rebuilds it.
 - Open eclipse
 
 From
+
     1610612784 Jan 31 09:02 model.index.db
     1.5G Jan 31 09:02 model.index.db
 To
+
     100663344 Jan 31 09:14 model.index.db
     96M Jan 31 09:14 model.index.db
 
