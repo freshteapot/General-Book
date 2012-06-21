@@ -3,7 +3,7 @@
 ##Try
 <pre>
 pecl install -n solr
-<pre>
+</pre>
 
 If it fails, like it did for me.
 
@@ -12,7 +12,7 @@ If it fails, like it did for me.
 apt-get install libxml2-dev
 apt-get install libcurl4-gnutls-dev
 pecl install -n solr
-<pre>
+</pre>
 
 ##Add solr to your php.ini
 ```
@@ -46,7 +46,7 @@ solr
 
 Solr Extension Version => 1.0.1
 Solr Extension Revision Id => $Revision: 311799 $
-</>
+</pre>
 
 Even tho:
 http://pecl.php.net/package/solr
